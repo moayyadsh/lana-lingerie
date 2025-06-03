@@ -1,4 +1,4 @@
-import { FaFacebookF, FaInstagram, FaTiktok, FaSnapchatGhost, FaPhone } from "react-icons/fa";
+import { FaFacebookF, FaInstagram,  FaPhone } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
 
 const HomePage = () => {
